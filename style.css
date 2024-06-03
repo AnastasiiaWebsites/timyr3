@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+body{
+    background-color: green;
+}
+
+body{
+    text-align: center;
+}
+
+body{
+    color: white;
+}
+
+img:hover{
+    transform: scale(1.5);
+    transition: 1s; 
+}
